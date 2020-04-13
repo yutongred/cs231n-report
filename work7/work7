@@ -1,0 +1,4 @@
+基本完成assignment2的内容
+解决了上次遗留的参数传输问题
+并完成了减小训练时间的batchnorm及其改进版layer norm
+完成了dropout减小overfit 和最终的全连接网络
